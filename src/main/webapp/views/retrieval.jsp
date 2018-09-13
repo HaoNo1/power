@@ -205,7 +205,7 @@
                                     <img src="../recogImages/test_6.jpg" class="img-responsive" >
                                 </div>
                                 <div class="col-md-2">
-                                    <img src="../recogImages/test_7.jpg" class="img-responsive">
+                                    <img src="../recogImages/test_2.jpg" class="img-responsive">
                                 </div>
                                 <div class="col-md-2">
                                     <img src="../recogImages/test_8.jpg" class="img-responsive">
