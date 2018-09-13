@@ -1,0 +1,16 @@
+@charset "utf-8";
+html,body{font-family: "Microsoft YaHei", "黑体";font-size:14px;height: 100%;}
+body{padding-right:10px;}
+.location{height:32px;background:#ededed;line-height:32px;padding-left:10px;color:#2a3f54;font-size:12px;}
+.choice{padding:20px 0;}
+.choice_list{padding-bottom:20px;}
+.btn_analyse{padding:6px 20px;}
+.choice_list label{line-height: 34px;color:#555;}
+.nav-tabs>li>a{color:#666;}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{border-top:3px solid #d43f3a; border-radius:0;}
+.myTabContent{border-bottom:1px solid #ddd; border-left:1px solid #ddd; border-right:1px solid #ddd; padding:10px;}
+.children_tab{margin: 0 0 15px 0; padding:0;}
+.children_tab li{list-style:none; float:left;} .children_tab li a{display: inline-block; padding: 6px 12px; margin-bottom: 0; font-size: 14px; font-weight: 400; line-height: 1.42857143; text-align: center; white-space: nowrap; vertical-align: middle; border: 1px solid transparent; margin-left: -1px; color: #333; background-color: #fff; border-color: #ccc; text-decoration:none;}
+.children_tab li a:first-child{border-radius:3px 0 0 3px;}
+.children_tab li a:last-child{border-radius: 0 3px 3px 0;}
+.children_tab li.active a{color: #333; background-color: #e6e6e6; border-color: #adadad;-webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,.125); box-shadow: inset 0 3px 5px rgba(0,0,0,.125);}

@@ -1,0 +1,1055 @@
+[
+  {
+    "Lat": 37.666389,
+    "Lng": 141.016667,
+    "Name": "Haramachi Power Station (原町火力発電所)"
+  },
+  {
+    "Lat": 34.833611,
+    "Lng": 136.962222,
+    "Name": "Hekinan Power Station (碧南火力発電所)"
+  },
+  {
+    "Lat": 33.951944,
+    "Lng": 133.239444,
+    "Name": "Niihamanishi Power Station (新居浜西火力発電所)"
+  },
+  {
+    "Lat": 37.238333,
+    "Lng": 141.017778,
+    "Name": "Hirono (広野火力発電所)"
+  },
+  {
+    "Lat":35.879722,
+    "Lng": 140.689444,
+    "Name": "Kashima (鹿島火力発電所)"
+  },
+  {
+    "Lat": 35.615,
+    "Lng": 139.756667,
+    "Name": "Oi Thermal (大井火力発電所)"
+  },
+  {
+    "Lat": 35.485,
+    "Lng": 140.016667,
+    "Name":"Anegasaki Power Station (姉崎火力発電所)"
+  },
+  {
+    "Lat": 34.986667,
+    "Lng":  136.843611,
+    "Name": "Chita Power Station (知多火力発電所)"
+  },
+  {
+    "Lat": 35.343056,
+    "Lng": 139.833889,
+    "Name": "Futtsu Power Station (富津火力発電所)"
+  },
+  {
+    "Lat": 35.006944,
+    "Lng": 136.688889,
+    "Name": "Kawagoe Power Station (川越火力発電所)"
+  },
+  {
+    "Lat": 35.4625,
+    "Lng": 139.976944,
+    "Name": "Sodegaura Power Station (袖ケ浦火力発電所)"
+  },
+  {
+    "Lat": 35.311111,
+    "Lng": 139.644167,
+    "Name": "Yokosuka Power Station (横須賀火力発電所)"
+  },
+  {
+    "Lat": 35.754444,
+    "Lng": 136.016389,
+    "Name": "Fugen (ふげん)"
+  },
+  {
+    "Lat": 37.421389,
+    "Lng": 141.0325,
+    "Name": "Fukushima I Nuclear Power Plant (福島第一原子力発電所)"
+  },
+  {
+    "Lat": 37.319444,
+    "Lng": 141.021111,
+    "Name": "Fukushima II Nuclear Power Plant (福島第二原子力発電所)"
+  },
+  {
+    "Lat": 33.515556,
+    "Lng": 129.837222,
+    "Name": "Genkai Nuclear Power Plant (玄海原子力発電所)"
+  },
+  {
+    "Lat": 34.623611,
+    "Lng": 138.1425,
+    "Name": "Hamaoka Nuclear Power Plant (浜岡原子力発電所)"
+  },
+  {
+    "Lat": 41.188056,
+    "Lng":  141.390278,
+    "Name": "Higashidōri Nuclear Power Plant (東通原子力発電所)"
+  },
+  {
+    "Lat": 33.490833,
+    "Lng":  132.311389,
+    "Name": "Ikata Nuclear Power Plant (伊方発電所)"
+  },
+  {
+    "Lat": 37.428333,
+    "Lng": 138.601667,
+    "Name": "Kashiwazaki-Kariwa Nuclear Power Plant (柏崎刈羽原子力発電所)"
+  },
+  {
+    "Lat":37.421389,
+    "Lng":  141.0325,
+    "Name": "Maki Nuclear Power Plant (巻原子力発電所)"
+  },
+  {
+    "Lat": 35.7025,
+    "Lng": 135.963333,
+    "Name": "Mihama Nuclear Power Plant (美浜発電所)"
+  },
+  {
+    "Lat": 35.740278,
+    "Lng": 135.988056,
+    "Name": "Monju Nuclear Power Plant (もんじゅ)"
+  },
+  {
+    "Lat": 35.540556,
+    "Lng": 135.651944,
+    "Name": "Ōi Nuclear Power Plant (大飯発電所)"
+  },
+  {
+    "Lat": 41.509722,
+    "Lng":  140.910278,
+    "Name": "Ōma Nuclear Power Plant (大間原子力発電所)"
+  },
+  {
+    "Lat":38.401111,
+    "Lng": 141.499722,
+    "Name": "Onagawa Nuclear Power Plant (女川原子力発電所)"
+  }, {
+  "Lat": 31.833611,
+  "Lng": 130.189722,
+  "Name": "Sendai Nuclear Power Plant (川内原子力発電所)"
+},
+  {
+    "Lat": 37.061111,
+    "Lng":136.726389,
+    "Name": "Shika Nuclear Power Plant (志賀原子力発電所)"
+  },
+  {
+    "Lat": 35.538333,
+    "Lng":132.999167,
+    "Name": "Shimane Nuclear Power Plant (島根原子力発電所)"
+  },
+  {
+    "Lat": 35.522222,
+    "Lng":  135.504722,
+    "Name": "Takahama Nuclear Power Plant (高浜原子力発電所)"
+  },
+  {
+    "Lat": 36.466389,
+    "Lng": 140.606667,
+    "Name": "Tōkai Nuclear Power Plant (東海原子力発電所)"
+  },
+  {
+    "Lat":43.036111,
+    "Lng":  140.5125,
+    "Name": "Tomari Nuclear Power Plant (泊発電所)"
+  },
+  {
+    "Lat": 35.672778,
+    "Lng":136.077222,
+    "Name": "Tsuruga Nuclear Power Plant (敦賀発電所)"
+  },
+  {
+    "Lat": 36.4362966000,
+    "Lng": 140.6140653000,
+    "Name": "Hitachinaka (常陸那珂火力発電所)"
+  },
+  {
+    "Lat": 26.4322429000,
+    "Lng": 127.8413605000,
+    "Name": "Ishikawa"
+  },
+  {
+    "Lat":35.5412282000,
+    "Lng": 132.9952057000,
+    "Name": "Kashima"
+  },
+  {
+    "Lat": 26.4452378000,
+    "Lng": 127.9209557000,
+    "Name": "Kin(全武火力発電所)"
+  },
+  {
+    "Lat": 35.5259880000,
+    "Lng": 135.3424340000,
+    "Name": "Maizuru (舞鶴発電所)"
+  },
+  {
+    "Lat": 33.3498410000,
+    "Lng": 129.6840170000,
+    "Name": "Matsuura(九州電力松浦発電所)"
+  },
+  {
+    "Lat": 34.7789247000,
+    "Lng": 131.9197247000,
+    "Name": "Misumi(中国電力三隅発電所)"
+  },
+  {
+    "Lat":43.4217823000,
+    "Lng": 141.8435926000,
+    "Name": "Naie (奈井江発電所)"
+  },
+  {
+    "Lat": 36.9110970000,
+    "Lng": 140.8141850000,
+    "Name": "Nakoso(常磐共同火力勿来発電所)"
+  },
+  {
+    "Lat": 37.0656546000,
+    "Lng": 137.0061046000,
+    "Name": "Nanao-Ohta(北陸電力七尾大田火力発電所)"
+  },
+  {
+    "Lat": 32.4870805000,
+    "Lng": 130.0441608000,
+    "Name": "Reihoku (苓北発電所)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Sakata"
+  },
+  {
+    "Lat":31.8335889000,
+    "Lng": 130.1893291000,
+    "Name": "Sendai(川内原子力発電所)"
+  },
+  {
+    "Lat": 43.4639838000,
+    "Lng": 141.8909461000,
+    "Name": "Sunagawa (砂川発電所)"
+  },
+  {
+    "Lat": 42.6127522000,
+    "Lng": 141.8059114000,
+    "Name": "Tomato-Atsuma Power Station (苫東厚真発電所)"
+  },
+  {
+    "Lat": 34.6540700000,
+    "Lng": 137.0664350000,
+    "Name": "Atsumi (渥美火力発電所)"
+  },
+  {
+    "Lat":42.4836069000,
+    "Lng": 140.8281305000,
+    "Name": "Date (伊達発電所)"
+  },
+  {
+    "Lat": 35.0330017000,
+    "Lng": 136.8301403000,
+    "Name": "Nishi Nagoya 1-4 (西名古屋火力発電所))"
+  },
+  {
+    "Lat": 41.5814946000,
+    "Lng": 140.4250355000,
+    "Name": "Shiriuchi (知内発電所)"
+  },
+  {
+    "Lat": 34.8242582000,
+    "Lng": 136.9235865000,
+    "Name": "Taketoyo (武豊火力発電所)"
+  },
+  {
+    "Lat": 42.6388050000,
+    "Lng": 141.6594148000,
+    "Name": "Tomakomai (苫小牧発電所)"
+  },
+  {
+    "Lat": 42.8983049855,
+    "Lng": 143.9386224747,
+    "Name": "Onbetsu Power Station (音別発電所)"
+  },
+  {
+    "Lat": 35.5645010000,
+    "Lng": 140.1056111000,
+    "Name": "Chiba Power Station (千葉火力発電所)"
+  },
+  {
+    "Lat": 35.0065040000,
+    "Lng": 136.8640440000,
+    "Name": "Chita II Power Station (知多第二火力発電所)"
+  },
+  {
+    "Lat": 35.5467979000,
+    "Lng": 140.0725276000,
+    "Name": "Goi Power Station (五井火力発電所)"
+  },
+  {
+    "Lat": 35.4947713000,
+    "Lng": 139.7456089000,
+    "Name": "Higashi-Ogishima Power Station (東扇島火力発電所)"
+  },
+  {
+    "Lat": 34.7793518000,
+    "Lng":134.6929869000,
+    "Name": "Himeji Power Station (姫路発電所)"
+  },
+  {
+    "Lat": 35.4043519000,
+    "Lng":139.6371884000,
+    "Name": "Minami-Yokohama Power Station (南横浜火力発電所)"
+  },
+  {
+    "Lat": 34.6176300000,
+    "Lng": 135.4047431000,
+    "Name": "Nanko Power Station (南港発電所)"
+  },
+  {
+    "Lat":34.5703586000,
+    "Lng": 135.4418889000,
+    "Name": "Sakaiko Power Station (堺港発電所)"
+  },
+  {
+    "Lat": 35.6205421000,
+    "Lng": 139.7564232000,
+    "Name": "Shinagawa Power Station (品川火力発電所)"
+  },
+  {
+    "Lat": 35.0641490000,
+    "Lng": 136.8769270000,
+    "Name": "Shin-Nagoya Power Station (新名古屋火力発電所)"
+  },
+  {
+    "Lat": 34.9738121000,
+    "Lng": 136.6460574000,
+    "Name": "Yokkaichi Power Station (四日市火力発電所)"
+  },
+  {
+    "Lat": 35.4770268000,
+    "Lng": 139.6778975000,
+    "Name": "Yokohama Power Station (横浜火力発電所)"
+  },
+  {
+    "Lat": 37.4213360000,
+    "Lng": 141.0280783000,
+    "Name": "Namie-Odaka Nuclear Power Plant (浪江・小高原子力発電所)"
+  },
+  {
+    "Lat": 34.972222,
+    "Lng":  137.828333,
+    "Name": "Akiba Dam (秋葉ダム)"
+  },
+  {
+    "Lat": 36.489444,
+    "Lng": 137.448611,
+    "Name": "Arimine Dam (有峰ダム)"
+  },
+  {
+    "Lat": 34.890556,
+    "Lng": 137.815,
+    "Name": "Funagira Dam (船明ダム)"
+  },
+  {
+    "Lat": 35.321389,
+    "Lng": 138.183056,
+    "Name": "Hatanagi-I Hydroelectric Dam (畑薙第一ダム)"
+  },
+  {
+    "Lat": 35.308056,
+    "Lng":  138.203056,
+    "Name": "Hatanagi-II Hydroelectric Dam (畑薙第二ダム)"
+  },
+  {
+    "Lat":35.210556,
+    "Lng": 138.222778,
+    "Name": "Ikawa Dam (井川ダム)"
+  },
+  {
+    "Lat": 36.825278,
+    "Lng": 139.666111,
+    "Name": "Imaichi Pumped Storage Plant"
+  },
+  {
+    "Lat": 36.005,
+    "Lng": 138.6525,
+    "Name": "Kannagawa Hydropower Plant (神流川発電所)"
+  },
+  {
+    "Lat": 35.718611,
+    "Lng": 138.929722,
+    "Name": "Kazunogawa Pumped Storage Plant (葛野川ダム)"
+  },
+  {
+    "Lat":34.891667,
+    "Lng": 135.859444,
+    "Name": "Kisenyama Pumped Storage Plant (喜撰山発電所)"
+  },
+  {
+    "Lat": 36.558333,
+    "Lng":  137.666667,
+    "Name": "Kurobe Dam (黒部ダム)"
+  },
+  {
+    "Lat":35.187222,
+    "Lng":137.476111,
+    "Name": "Kuroda Dam (黒田ダム)"
+  },
+  {
+    "Lat":35.468889,
+    "Lng":  137.172222,
+    "Name": "Maruyama Dam (丸山ダム)"
+  },
+  {
+    "Lat": 35.245556,
+    "Lng": 133.491667,
+    "Name": "Matanoagawa Pumped Storage Plant (俣野川発電所)"
+  },
+  {
+    "Lat": 36.13825,
+    "Lng": 136.910806,
+    "Name": "Miboro Dam (御母衣ダム)"
+  },
+  {
+    "Lat": 35.410278,
+    "Lng": 139.041667,
+    "Name": "Miho Dam (三保ダム)"
+  },
+  {
+    "Lat": 35.184722,
+    "Lng":  137.931667,
+    "Name": "Misakubo Dam (塩郷ダム)"
+  },
+  {
+    "Lat": 35.540556,
+    "Lng": 139.2525,
+    "Name": " Miyagase Dam (宮ヶ瀬ダム)"
+  },
+  {
+    "Lat": 33.770278,
+    "Lng": 133.336667,
+    "Name": "Ohashi Dam (大橋ダム)"
+  },
+  {
+    "Lat":35.164722,
+    "Lng":  138.142778,
+    "Name": "Ōigawa Dam (大井川ダム)"
+  },
+  {
+    "Lat": 26.673611,
+    "Lng":128.265556,
+    "Name": "Okinawa Yanbaru Seawater Pumped Storage Power Station[24](沖縄やんばる海水揚水発電所)"
+  }, {
+  "Lat": 37.153333,
+  "Lng": 139.25,
+  "Name": "Okutadami Dam (奥只見ダム)"
+},
+  {
+    "Lat": 35.236667,
+    "Lng": 134.856389,
+    "Name": "Okutataragi Pumped Storage Plant (奥多々良木発電所)"
+  },
+  {
+    "Lat": 34.117778,
+    "Lng": 135.821111,
+    "Name": "Okuyoshino Pumped Storage Plant (奥吉野発電所)"
+  },
+  {
+    "Lat": 32.247778,
+    "Lng": 131.373611,
+    "Name": "Omarugawa Pumped Storage Power Station"
+  },
+  {
+    "Lat": 37.214722,
+    "Lng": 139.213889,
+    "Name": "Otori Dam (大鳥ダム)"
+  },
+  {
+    "Lat": 35.615556,
+    "Lng": 139.195278,
+    "Name": "Sagami Dam (相模ダム)"
+  },
+  {
+    "Lat": 35.099444,
+    "Lng": 137.794167,
+    "Name": "Sakuma Dam (佐久間ダム)"
+  },
+  {
+    "Lat": 34.971389,
+    "Lng": 138.093889,
+    "Name": "Sasamagawa Dam (笹間川ダム)"
+  },
+  {
+    "Lat": 35.216667,
+    "Lng": 138.090278,
+    "Name": "Senzu Dam (千頭ダム)"
+  },
+  {
+    "Lat": 36.473889,
+    "Lng": 137.689722,
+    "Name": "Shin-Takasegawa Pumped Storage Plant (新高瀬川発電所)"
+  },
+  {
+    "Lat": 35.125833,
+    "Lng": 137.760556,
+    "Name": "Shintoyone Pumped Storage Plant (新豊根発電所)"
+  },
+  {
+    "Lat": 35.001389,
+    "Lng": 138.0875,
+    "Name": "Shiogō Dam (塩郷ダム)"
+  },
+  {
+    "Lat": 35.585833,
+    "Lng": 139.289444,
+    "Name": "Shiroyama Dam (城山ダム)"
+  },
+  {
+    "Lat": 37.310556,
+    "Lng": 139.286944,
+    "Name": "Tagokura Dam (田子倉ダム)"
+  },
+  {
+    "Lat": 37.386944,
+    "Lng": 139.533889,
+    "Name": "Taki Dam (滝ダム)"
+  },
+  {
+    "Lat": 36.782222,
+    "Lng": 139.056389,
+    "Name": "Tamahara Pumped Storage Power Station (玉原発電所)"
+  },
+  {
+    "Lat": 35.498611,
+    "Lng": 138.246389,
+    "Name": "Tashiro Dam (田代ダム)"
+  },
+  {
+    "Lat": 35.665278,
+    "Lng": 136.502222,
+    "Name": "Tokuyama Dam (徳山ダム)"
+  },
+  {
+    "Lat": 35.199722,
+    "Lng": 137.458611,
+    "Name": "Okuyahagi Pumped Storage Power Station[22] (奥矢作発電所)"
+  },
+  {
+    "Lat": 35.488889,
+    "Lng": 139.727222,
+    "Name": "Ogishima Solar Power Plant (扇島太陽光発電所)"
+  },
+  {
+    "Lat": 42.719710,
+    "Lng": 141.794779,
+    "Name": "Softbank 苫東安平ソーラーパーク"
+  },
+  {
+    "Lat": 35.583333,
+    "Lng": 138.574167,
+    "Name": "Komekurayama Solar Power Plant (米倉山太陽光発電所)"
+  },
+  {
+    "Lat": 34.711111,
+    "Lng": 136.292778,
+    "Name": "Aoyama Plateau Wind Farm (青山高原ウインドファーム)"
+  },
+  {
+    "Lat": 37.404167,
+    "Lng": 140.068333,
+    "Name": "Nunobiki Plateau Wind Farm (布引高原ウインドファーム)"
+  },
+  {
+    "Lat": 33.435556,
+    "Lng": 132.223333,
+    "Name": "Seto Windhill (瀬戸ウインドヒル発電所)"
+  },
+  {
+    "Lat": 35.165755,
+    "Lng": 137.504775,
+    "Name": "Hiraoka Dam (平岡ダム)"
+  },
+  {
+    "Lat": 36.461145,
+    "Lng": 137.375261,
+    "Name": "Dashidaira Dam (出し平ダム)"
+  },
+  {
+    "Lat": 33.455653,
+    "Lng": 133.202738,
+    "Name": "Honkawa Pumped Storage Plant[22]（本川発電所）"
+  },
+  {
+    "Lat":34.0406307000,
+    "Lng": 135.9745686000,
+    "Name": "Ikehara Pumped Storage Plant （池原発電所）"
+  },
+  {
+    "Lat": 35.430810,
+    "Lng": 138.555215,
+    "Name": "Kadonogawa Power Station (葛野川発電所)"
+  },
+  {
+    "Lat": 36.869054,
+    "Lng": 139.610034,
+    "Name": "Kinugawa Pumped Storage Plant (鬼怒川発電所)"
+  },
+  {
+    "Lat": 36.944048,
+    "Lng": 138.637584,
+    "Name": "Konoyama Dam ( 高野山ダム)"
+  },
+  {
+    "Lat": 35.731378,
+    "Lng": 137.139885,
+    "Name": "Masegawa Dam[22] (馬瀬川ダム)"
+  },
+  {
+    "Lat": 36.15478,
+    "Lng": 137.7474,
+    "Name": "Midono Pumped Storage Plant[22] (水殿発電所)"
+  },
+  {
+    "Lat": 37.066054,
+    "Lng": 138.697406,
+    "Name": "Miyanaka Dam (宮中ダム)"
+  },
+  {
+    "Lat": 35.88956168739278,
+    "Lng":136.68805599999996,
+    "Name": "Nagano Pumped Storage Plant (長野発電所)"
+  },
+  {
+    "Lat": 42.6066,
+    "Lng": 142.5569,
+    "Name": "Niikappu Pumped Storage Plant (新冠発電所)"
+  },
+  {
+    "Lat": 36.976839,
+    "Lng": 138.484747,
+    "Name": "Nishiotaki Dam (西大滝ダム)"
+  },
+  {
+    "Lat": 37.100335,
+    "Lng": 139.904419,
+    "Name": "Numappara Pumped Storage Plant (沼原発電所)"
+  },
+  {
+    "Lat": 35.127891,
+    "Lng": 134.717503,
+    "Name": "Okawachi Pumped Storage Power Station[23]　(大河内発電所)"
+  },
+  {
+    "Lat": 36.845908,
+    "Lng": 138.765807,
+    "Name": "Okukiyotsu Pumped Storage Power Station (奥清津発電所)"
+  },
+  {
+    "Lat": 37.345056,
+    "Lng": 139.908333,
+    "Name": "Shimogo Pumped Storage Power Station"
+  },
+  {
+    "Lat": 37.294996,
+    "Lng": 138.806485,
+    "Name": "Shinanogawa Pumped Storage Plant (信濃川発電所)"
+  },
+  {
+    "Lat": 36.995556,
+    "Lng": 139.868611,
+    "Name": "Shiobara Pumped Storage Plant (塩原発電所)"
+  },
+  {
+    "Lat": 42.44813,
+    "Lng": 142.62358,
+    "Name": "Takami Pumped Storage Plant (高見発電所)"
+  },
+  {
+    "Lat": 36.265361,
+    "Lng": 136.643806,
+    "Name": "Tedorigawa Dam (手取川ダム)"
+  },
+  {
+    "Lat": 36.911698,
+    "Lng": 139.054170,
+    "Name": "Yagisawa Pumped Storage Plant (矢木沢発電所)"
+  },
+  {
+    "Lat": 35.658889,
+    "Lng": 137.620278,
+    "Name": "Yomikaki Power Station (読書発電所)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Eurus Energy Rokkasho Solar Park"
+  },
+  {
+    "Lat": 33.259580,
+    "Lng": 131.720768,
+    "Name": "Oita Solar Power"
+  },
+  {
+    "Lat": 31.466600,
+    "Lng": 130.525431,
+    "Name": "Kagoshima Nanatsujima Mega Solar Power Plant\t"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Tahara Solar-Wind Joint Project"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Kisozaki reclaimed land mega-solar"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Softbank Tottori-Yonago Solar Park"
+  },
+  {
+    "Lat": 34.691570,
+    "Lng": 137.243995,
+    "Name": "Tahara Solar Daini Power Plant"
+  },
+  {
+    "Lat": 35.235957,
+    "Lng": 139.896507,
+    "Name": "Futtsu Solar"
+  },
+  {
+    "Lat": 34.725320,
+    "Lng": 137.285236,
+    "Name": "Tahara Solar Daiichi Power Plant"
+  },
+  {
+    "Lat": 36.457644,
+    "Lng": 140.386745,
+    "Name": "Mito Newtown Mega Solar Park"
+  },
+  {
+    "Lat": 34.580931,
+    "Lng": 134.974400,
+    "Name": "Awaji Kifune Solar Power Plant (淡路貴船太陽光発電所)"
+  },
+  {
+    "Lat": 42.992768,
+    "Lng":144.185708,
+    "Name": "Eurus Shiranuka Solar Park"
+  },
+  {
+    "Lat": 35.150351,
+    "Lng": 140.205560,
+    "Name": "Kamogawa Mirai Solar Power Plant"
+  },
+  {
+    "Lat": 42.796199,
+    "Lng": 143.491800,
+    "Name": "Eurus Toyokoro Solar Park"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "NISSAN Green Energy Farm in Oita"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Sunny Solar Fukushima Central Plant"
+  },
+  {
+    "Lat": 33.430518,
+    "Lng": 131.551421,
+    "Name": "Hanwha Solar Power Kitsuki"
+  },
+  {
+    "Lat": 42.655238,
+    "Lng": 141.675517,
+    "Name": "Mitsui Fudosan Tomakomai Solar Power Plant"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Kyushu Solar Farm 7 Miyama Joint Power Station"
+  },
+  {
+    "Lat": 32.997054,
+    "Lng": 130.422707,
+    "Name": "SoftBank Kumamoto Arao Solar Park"
+  },
+  {
+    "Lat": 32.2883766000,
+    "Lng": 130.4728727000,
+    "Name": "Ashikita Solar Power Plant（Primary・Secondary）"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "The US Power Plant"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Mitsui Engineering & Shipbuilding/Mitsui Fudosan Oita Solar Power Plant"
+  },
+  {
+    "Lat": 33.988744,
+    "Lng": 134.614358,
+    "Name": "Nippon Paper 1 Solar Power Plant"
+  },
+  {
+    "Lat": 33.984505,
+    "Lng": 134.617981,
+    "Name": "Nippon Paper 2 Solar Power Plant"
+  },
+  {
+    "Lat": 33.986872,
+    "Lng": 134.625103,
+    "Name": "Nippon Paper 3 Solar Power Plant"
+  },
+  {
+    "Lat": 33.921529,
+    "Lng":130.777407,
+    "Name": "Eneseed Hibiki solar power plant"
+  },
+  {
+    "Lat": 33.0080720000,
+    "Lng":130.4196260000,
+    "Name": "Sigma Power Ariake Miike Power Station Ltd.(シグマパワー有明三池発電所)"
+  },
+  {
+    "Lat": 34.098525,
+    "Lng": 135.204503,
+    "Name": "Aridagawa Wind Farm (有田川ウインドファーム)"
+  },
+  {
+    "Lat": 42.412222,
+    "Lng": 140.970556,
+    "Name": "Date Wind Farm (伊達ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Enbetsu Wind Park (遠別ウインドパーク)"
+  },
+  {
+    "Lat": 41.931403,
+    "Lng": 140.186686,
+    "Name": "sashi Kita Wind Farm (江差北風力発電所)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Eurus Hitz Kitanosawa Cliff Wind Farm (ユーラスヒッツ北野沢クリフ風力発電所)"
+  },
+  {
+    "Lat": 45.116521,
+    "Lng": 142.401188,
+    "Name": "Hamatonbetsu Wind Farm (浜頓別ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Hohoku Wind Farm"
+  },
+  {
+    "Lat": 33.5395668000,
+    "Lng": 133.0624510000,
+    "Name": "Iwaya Wind Farm (岩屋ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Minami Awaji Wind Farm"
+  },
+  {
+    "Lat": 39.415173,
+    "Lng": 141.739575,
+    "Name": "Kamaishi Wind Farm (釜石広域ウインドファーム)"
+  },
+  {
+    "Lat": 34.1596697478,
+    "Lng": 136.2734055519,
+    "Name": "Kihoku Wind Farm (輝北ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Kunimiyama Wind Farm (国見山ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Mameda Wind Farm (大豆田風力発電所)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Noheji Wind Farm (野辺地ウインドファーム)"
+  },
+  {
+    "Lat": 39.3254266000,
+    "Lng": 140.0336672000,
+    "Name": "Nishime Wind Farm (西目ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Odanosawa Wind Farm (小田野沢ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Okawara Wind Farm (大川原ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Satomi Bokujo Wind Farm (里美牧場風力発電所)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Shin Izumo Wind Farm (新出雲風力発電所)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Shiratakiyama Wind Farm"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Shitsukari Wind Farm (尻労ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Soya Misaki Wind Farm (宗谷岬ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Summit Wind Power Sakata (サミットウインドパワー酒田発電所)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Takine Ojiroi Wind Farm (滝根小白井ウインドファーム)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Tashirotai Wind Farm (田代平風力発電所)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Tomamae Green Hill Wind Park (苫前グリーンヒルウインドパーク)"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Wind Power Kamisu (ウィンド・パワーかみす)"
+  },
+  {
+    "Lat": 42.133072,
+    "Lng": 140.455214,
+    "Name": "Mori"
+  },
+  {
+    "Lat": 39.981409,
+    "Lng": 140.781928,
+    "Name": "Onuma"
+  },
+  {
+    "Lat": 39.938231,
+    "Lng": 140.937075,
+    "Name": "Sumikawa"
+  },
+  {
+    "Lat": 38.943910,
+    "Lng": 141.254216,
+    "Name": "Matsukawa Solar Power Plant"
+  },
+  {
+    "Lat": 39.871663,
+    "Lng": 140.920142,
+    "Name": "Matsukawa Geothermal Power Plant"
+  },
+  {
+    "Lat": 39.827612,
+    "Lng": 140.865077,
+    "Name": "Kakkonda 1 & 2"
+  },
+  {
+    "Lat": 39.001351,
+    "Lng": 140.604122,
+    "Name": "Uenotai"
+  },
+  {
+    "Lat": 38.809843,
+    "Lng": 140.708510,
+    "Name": "Onikobe"
+  },
+  {
+    "Lat": 37.439902,
+    "Lng": 139.694129,
+    "Name": "Yanaizu-Nishiyama"
+  },
+  {
+    "Lat": 33.074850,
+    "Lng": 139.812548,
+    "Name": "Hachijo-jima"
+  },
+  {
+    "Lat": 33.281654,
+    "Lng": 131.470122,
+    "Name": "Suginoi"
+  },
+  {
+    "Lat": 33.211285,
+    "Lng": 131.273028,
+    "Name": "Takigami"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Otake"
+  },
+  {
+    "Lat": 33.104254,
+    "Lng": 131.186445,
+    "Name": "Hatchobaru 1 & 2"
+  },
+  {
+    "Lat": 33.109148,
+    "Lng": 131.218459,
+    "Name": "Kuju"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Takenoyu"
+  },
+  {
+    "Lat": "unknown",
+    "Lng": "unknown",
+    "Name": "Kirishima-kokuksai"
+  },
+  {
+    "Lat": 31.931831,
+    "Lng": 130.797178,
+    "Name": "Ogiri"
+  },
+  {
+    "Lat": 31.190698,
+    "Lng": 130.614320,
+    "Name": "Yamagawa"
+  }
+]
