@@ -49,7 +49,7 @@
                 center: {lat: 36.70, lng: 138.96},
                 minZoom: 5.5
             });
-            $.getJSON("../json/Japan.json", function (data) {
+            $.getJSON("../json/japan.json", function (data) {
                 $.each(data, function (i) {
                     var Position = {lat: data[i].Lat, lng: data[i].Lng};
                     var marker = new google.maps.Marker({
@@ -85,7 +85,7 @@
         });
     </script>
     <script async defer
-            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyC80PLDzjYCDIyZ5hkBOf7jSaA-yKaDtQ8&callback=initMap">
+            src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCsSL62FiPFsl9cIgqNOJj70eKJhxE4Tyk&callback=initMap">
         /*
          script 从指定网址加载 API。
          callback 参数在 API 加载完毕后执行 initMap 函数。

@@ -95,12 +95,12 @@
                 <ul class="submenu">
                     <li><a href="test1.jsp" target="right">深层网络与聚焦网络爬虫</a></li>
                     <%--<li><a href="test2.jsp" target="right">数据时空自动采集分析 </a></li>--%>
-                    <li><a href="nlp.html" target="right">基于深度神经网络的语义分析</a></li>
+                    <li><a href="nlp2.jsp" target="right">基于深度神经网络的语义分析</a></li>
                 </ul>
             </li>
             <li><a href="map_Indian.jsp"><i class="fa fa-glass"></i>基于图像的目标识别</a>
                 <ul class="submenu">
-                    <li><a href="retrieval1.html" target="right">目标特征识别</a></li>
+                    <li><a href="../Irecog.do" target="right">目标特征识别</a></li>
                 </ul>
             </li>
             <li><a href="map_Indian.jsp"><i class="fa fa-file-image-o"></i>电力系统网络拓扑</a>
@@ -125,7 +125,7 @@
     </div>
 </div>
 <div id="page">
-    <iframe scrolling="no" frameborder="0" src="map_Indian.jsp" name="right" width="100%" height="100%"></iframe>
+    <iframe  frameborder="0" src="map_Indian.jsp" name="right" width="100%" height="100%"></iframe>
 </div>
 </body>
 </html>

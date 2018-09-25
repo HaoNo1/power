@@ -1,0 +1,15 @@
+test_1.jpg: Vindhyachal Super Thermal Power,24.098056,82.671667,火力发电站,0.9449634
+test_2.jpg: Adani Power Mundra Limited Station,22.822778,69.552778,火力发电站,0.9324234
+test_3.jpg: Trombay Gas Power Station,19.003333,72.903889,燃气发电站,0.8314442
+test_4.jpg: New Parli Thermal Power Station,18.905833,76.543333,火力发电站,0.9413421
+test_5.jpg: Ukai Thermal Power Station,21.210833,73.557222,火力发电站,0.9562412
+test_6.jpg: 400 KV MSETCL Substation，Koradi,21.247778,79.098056,火力发电站,0.9524102
+test_7.jpg: Dahanu Thermal Power Station,19.953333,72.748333,火力发电站,0.8123296
+test_8.jpg: Reliance Avera CLFR Power Plant,26.763056,72.014167,核能发电站,0.8134507
+test_9.jpg: Kadana Dam,23.307256,73.827256,水力发电站,0.9415361
+test_10.jpg: Kolaghat Thermal Power Station,22.416667,87.870833,火力发电站,0.8213462
+test_11.jpg: KODERMA Thermal Power Station,23.463056,87.130833,火力发电站,0.7131251
+test_12.jpg: Vallur Thermal Power Station,13.233889,80.305833,火力发电站,0.9834145
+test_13.jpg: Yermarus Thermal Power Station,16.294167,77.355278,火力发电站,0.9435341
+test_14.jpg: Konaseema Combined Cycle Power,16.734722,81.862222,燃气发电站,0.8344315
+test_15.jpg: Rayalaseema Thermal Power Station,14.703889,78.458056,火力发电站,0.9124698
